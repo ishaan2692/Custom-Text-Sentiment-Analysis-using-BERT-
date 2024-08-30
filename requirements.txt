@@ -1,0 +1,8 @@
+tensorflow 
+transformers
+pandas
+beautifulsoup4
+matplotlib
+plotly
+wordcloud
+scikit-learn
